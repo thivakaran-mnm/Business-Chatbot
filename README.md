@@ -64,7 +64,9 @@ Business-Chatbot/
 
    streamlit run Business_chatbot.py
 
-3. Access the App: Open a web browser and go to the URL provided by Streamlit, typically http://localhost:8501.
+3. Access the App:
+
+   Open a web browser and go to the URL provided by Streamlit, typically http://localhost:8501.
 
 ## Troubleshooting
 - Ensure Dependencies are Installed: Double-check that all required Python packages are installed correctly.
